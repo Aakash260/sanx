@@ -6,7 +6,7 @@ export default function Home() {
  <div className='font-satisfy text-2xl flex justify-center items-center h-screen'>
   Change Font with Tailwind 
  
-  <h2>Do Some Changes and Look Into the code</h2>
+  <h2>Do Some Changes a</h2>
   </div>
 
 
